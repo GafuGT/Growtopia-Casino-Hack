@@ -1,5 +1,5 @@
 # Growtopia-Casino-Hack
-Growtopia DOTCASINO Roulette Wheel number changer
+Growtopia DOTCASINO Roulette Wheel number changer.
 # Usage
 
 Download the file to your device
