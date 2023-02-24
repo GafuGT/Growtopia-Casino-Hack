@@ -1,4 +1,4 @@
-# Growtopia-Casino-Hack.
+# Growtopia-Casino-Hack
 Growtopia DOTCASINO Roulette Wheel number changer
 # Usage
 
