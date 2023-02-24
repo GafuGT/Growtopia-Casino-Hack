@@ -12,7 +12,7 @@ You must have your antivirus disabled
 
 Launch DotCasino Growtopia Hack.exe
 
-An injector will popout
+An injector will popup
 
 Make sure you're already in Growtopia
 
