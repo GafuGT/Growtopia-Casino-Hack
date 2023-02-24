@@ -25,3 +25,7 @@ Enjoy Exploiting
 # ShowCase & How to use video
 
 https://youtu.be/bMjDN_4_w-k
+
+# Support
+
+https://discord.gg/cb4W62Hm
